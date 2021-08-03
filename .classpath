@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Mathematics"/>
+	<classpathentry kind="src" path="Arrays"/>
+	<classpathentry kind="src" path="Recursion"/>
+	<classpathentry kind="src" path="Searching"/>
+	<classpathentry kind="src" path="Sorting"/>
+	<classpathentry kind="src" path="Strings"/>
+	<classpathentry kind="src" path="Hashing"/>
+	<classpathentry kind="src" path="LinkedLists"/>
+	<classpathentry kind="src" path="Stacks"/>
+	<classpathentry kind="src" path="Queue and Deque"/>
+	<classpathentry kind="src" path="Trees"/>
+	<classpathentry kind="src" path="BinarySearchTree"/>
+	<classpathentry kind="src" path="Heap"/>
+	<classpathentry kind="src" path="Graphs"/>
+	<classpathentry kind="src" path="Greedy Algo"/>
+	<classpathentry kind="src" path="BackTracking"/>
+	<classpathentry kind="src" path="Dynamic Programming"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
