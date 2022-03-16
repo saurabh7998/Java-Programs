@@ -10,7 +10,8 @@ public class BFS {
 		adjList.get(v).add(u);
 	}
 
-	public static void BFSearch(ArrayList<ArrayList<Integer>> adjList, int s, boolean[] visited) {
+	public static void BFSearch(ArrayList<ArrayList<Integer>> adjList, int s,
+															boolean[] visited) {
 
 		Queue<Integer> q = new LinkedList<Integer>();
 
