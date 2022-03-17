@@ -27,6 +27,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Strings" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Trees" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/topInterviewQuestions" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="JavaSE-1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
